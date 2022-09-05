@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Description
- *
+ * 程序入口
  * @author Tesla Liu
  * Date 2022/9/2 17:26
  */
